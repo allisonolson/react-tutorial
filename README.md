@@ -1,3 +1,9 @@
+This project is part of my tutorial on how to create and deploy your first react app!
+
+You can view the presentation at http://workshops.alli.coffee/react 
+
+You can view the site at https://allison-dinapoli.github.io/react-tutorial 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
