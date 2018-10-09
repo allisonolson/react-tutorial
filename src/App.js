@@ -80,7 +80,7 @@ class App extends Component {
     }
 
     return (
-      <div>
+      <div style={{textAlign:"center"}}>
         <br />
         <h1>React Tutorial - Timer</h1>
         <br />
