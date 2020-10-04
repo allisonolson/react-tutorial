@@ -4,6 +4,8 @@ This project is part of my tutorial on how to create and deploy your first react
 
 You can view the presentation at http://workshops.alli.coffee/react 
 
+The prework is located at http://workshops.alli.coffee/b4react
+
 You can view the site at https://allison-dinapoli.github.io/react-tutorial 
 
 -----------------------
